@@ -1,1 +1,1 @@
-[ver wargames](wargames%20Docker.pdf)
+[Ver Maquina wargames](wargames%20Docker.pdf)
